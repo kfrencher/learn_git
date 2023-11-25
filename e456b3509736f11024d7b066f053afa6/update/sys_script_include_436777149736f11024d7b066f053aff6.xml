@@ -9,6 +9,10 @@
         <name>Log</name>
         <script><![CDATA[var Log = (function() {
 	return {
+		/**
+		 * Logs message at info level
+		 * @param {string} message
+		 */
 		log: function(message) {
 			gs.info('My Message: ' + message);
 		},
@@ -32,6 +36,6 @@
         <sys_scope display_value="Learn GIT">e456b3509736f11024d7b066f053afa6</sys_scope>
         <sys_update_name>sys_script_include_436777149736f11024d7b066f053aff6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-25 14:18:30</sys_updated_on>
+        <sys_updated_on>2023-11-25 14:08:01</sys_updated_on>
     </sys_script_include>
 </record_update>
