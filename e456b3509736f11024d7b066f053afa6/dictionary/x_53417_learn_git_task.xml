@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b0056f45973ab51024d7b066f053afdf" label="GIT Task" max_length="40" name="x_53417_learn_git_task" type="collection">
         <element label="Description" max_length="4000" name="description" type="string"/>
-        <element label="Description2" max_length="40" name="description2" type="string"/>
         <element display="true" label="Title" max_length="255" name="title" type="string"/>
     </element>
 </database>
