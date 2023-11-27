@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_53417_learn_git.Main</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>Main</name>
+        <script><![CDATA[var Main = (function() {
+	return { 
+		log: function() {}
+	};
+})();]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-26 15:05:26</sys_created_on>
+        <sys_id>4b4291b497be351024d7b066f053af80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Main</sys_name>
+        <sys_package display_value="Learn GIT" source="x_53417_learn_git">e456b3509736f11024d7b066f053afa6</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Learn GIT">e456b3509736f11024d7b066f053afa6</sys_scope>
+        <sys_update_name>sys_script_include_4b4291b497be351024d7b066f053af80</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-26 15:05:26</sys_updated_on>
+    </sys_script_include>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Learn GIT">e456b3509736f11024d7b066f053afa6</application>
+        <file_path/>
+        <instance_id>ac212348db1f19180288c59705961994</instance_id>
+        <instance_name>dev144209</instance_name>
+        <name>sys_script_include_4b4291b497be351024d7b066f053af80</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;
+    &lt;sys_script_include action="INSERT_OR_UPDATE"&gt;
+        &lt;access&gt;package_private&lt;/access&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;api_name&gt;x_53417_learn_git.Main&lt;/api_name&gt;
+        &lt;caller_access/&gt;
+        &lt;client_callable&gt;false&lt;/client_callable&gt;
+        &lt;description/&gt;
+        &lt;name&gt;Main&lt;/name&gt;
+        &lt;script&gt;&lt;![CDATA[var Main = (function() {
+	return { 
+		log: function() {}
+	};
+})();]]&gt;&lt;/script&gt;
+        &lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2023-11-26 15:05:26&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;4b4291b497be351024d7b066f053af80&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Main&lt;/sys_name&gt;
+        &lt;sys_package display_value="Learn GIT" source="x_53417_learn_git"&gt;e456b3509736f11024d7b066f053afa6&lt;/sys_package&gt;
+        &lt;sys_policy&gt;read&lt;/sys_policy&gt;
+        &lt;sys_scope display_value="Learn GIT"&gt;e456b3509736f11024d7b066f053afa6&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_script_include_4b4291b497be351024d7b066f053af80&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2023-11-26 15:05:26&lt;/sys_updated_on&gt;
+    &lt;/sys_script_include&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>860972247</payload_hash>
+        <record_name>Main</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-26 15:40:04</sys_created_on>
+        <sys_id>a48a913097fe351024d7b066f053af30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c0c49aed40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-26 15:40:04</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>648a913036fe3510ae1fbedbb05c8330</update_guid>
+        <update_guid_history>de5a5dfc01be3510f0d6065015d03c15:-255346305,819291b49abe35108477b98c81991b85:323920907</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 01:43:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>60bf347a9d274878beb622e08afee110</sys_id>
+        <sys_metadata>4b4291b497be351024d7b066f053af80</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Main</sys_name>
+        <sys_package display_value="Learn GIT" source="x_53417_learn_git">e456b3509736f11024d7b066f053afa6</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Learn GIT">e456b3509736f11024d7b066f053afa6</sys_scope>
+        <sys_scope_delete display_value="">2e8ab2f0d084453c99d3a668b0d87a10</sys_scope_delete>
+        <sys_update_name>sys_script_include_4b4291b497be351024d7b066f053af80</sys_update_name>
+        <sys_update_version display_value="sys_script_include_4b4291b497be351024d7b066f053af80">a48a913097fe351024d7b066f053af30</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 01:43:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
