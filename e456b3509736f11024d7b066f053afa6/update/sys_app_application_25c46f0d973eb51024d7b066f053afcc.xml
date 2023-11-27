@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 20:22:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>25c46f0d973eb51024d7b066f053afcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Learn GIT</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Learn GIT" source="x_53417_learn_git">e456b3509736f11024d7b066f053afa6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Learn GIT">e456b3509736f11024d7b066f053afa6</sys_scope>
+        <sys_update_name>sys_app_application_25c46f0d973eb51024d7b066f053afcc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 20:22:45</sys_updated_on>
+        <title>Learn GIT</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
